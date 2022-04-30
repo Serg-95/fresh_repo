@@ -1,2 +1,1 @@
-this is a good practise
- for stydying github
+this is a good practise to use git commands for stydying github service!
